@@ -1,15 +1,1 @@
-{
-  "ignition": {
-    "version": "3.3.0"
-  },
-  "passwd": {
-    "users": [
-      {
-        "name": "bwacek",
-        "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCjVFr/eLdM8o2TTkuH8y3cH7997UW3mO8dhtP4vALhGhPJVMa1tGr4AReZx3NfylAly22D+0qxs5e/EKeiMplJssxG5i41w6Uxur7qcb8b7G/UF97/RoTwpcV9BMNN6F+GYRdtxZiPLdHgcMssN/hIa6pYvA+uWRiAc9DPRhsRoZwQK+VWUogW5vkWJwAttmO0C+SinPrUgCecCxNAB3zM8VDYxVAyHzBGqZ3VR0pTjnOdUO6jN4/IoQiJxrvUVBvljBX3AGqWJbUam2CxywXcgPDDSaHfK/Uix8rY/sQJrXAXu1CXOqzw0OhMbIS3w92UDTmGXmJVGaOrkMxYt4xgP7/xgEL8INEXkMEOzZL2xN9+o/eejuiyjY0azPvp9awK5g3PmtZEauIkHH/8+4YGT4WeSvDBDnYfgLIzk5hMpUAnuaa7kOV2u7IyLT0FtlfiOGVr0sO0sMUa5iH5lJ79oLARA7zC56Y3p/JVLsoewfSvmpjZB3dUMSptJUVHMoU="
-        ]
-      }
-    ]
-  }
-}
+{"ignition":{"version":"3.3.0"},"passwd":{"users":[{"name":"bwacek","sshAuthorizedKeys":["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCjVFr/eLdM8o2TTkuH8y3cH7997UW3mO8dhtP4vALhGhPJVMa1tGr4AReZx3NfylAly22D+0qxs5e/EKeiMplJssxG5i41w6Uxur7qcb8b7G/UF97/RoTwpcV9BMNN6F+GYRdtxZiPLdHgcMssN/hIa6pYvA+uWRiAc9DPRhsRoZwQK+VWUogW5vkWJwAttmO0C+SinPrUgCecCxNAB3zM8VDYxVAyHzBGqZ3VR0pTjnOdUO6jN4/IoQiJxrvUVBvljBX3AGqWJbUam2CxywXcgPDDSaHfK/Uix8rY/sQJrXAXu1CXOqzw0OhMbIS3w92UDTmGXmJVGaOrkMxYt4xgP7/xgEL8INEXkMEOzZL2xN9+o/eejuiyjY0azPvp9awK5g3PmtZEauIkHH/8+4YGT4WeSvDBDnYfgLIzk5hMpUAnuaa7kOV2u7IyLT0FtlfiOGVr0sO0sMUa5iH5lJ79oLARA7zC56Y3p/JVLsoewfSvmpjZB3dUMSptJUVHMoU="]}]}}
